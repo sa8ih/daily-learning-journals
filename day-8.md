@@ -1,0 +1,1 @@
+Today we learned many new things,Coding was difficult, enjoyed it. Craig helped me walk through trouble shooting some of the issues I encountered. Interesting to see how you can do so much with javascript.
